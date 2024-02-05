@@ -1,3 +1,21 @@
+# Notice of Deprecation
+
+As of 22-01-2024, this repository is deprecated and will no longer be updated or maintained. This change is a result of the renaming of our lab, which has led us to consolidate and reorganize our projects under a new name.
+
+## New Repository Location
+
+Please visit our new repository for ongoing developments and updates: [New Repository URL](https://github.com/satrai-lab/comdex)
+
+<!---
+Here we must replace for each repo (comdex,planiot,etc.)
+-->
+
+## What should you do?
+
+- **Visit the New Repository**: Redirect your attention and contributions to our new repository for the most up-to-date content.
+- **Update Your References**: If you have cited or linked to this repository in your work, please update those references to point to the new repository.
+
+
 # ComDeX Prototype Implementation
 
 <div style="display: flex;">
